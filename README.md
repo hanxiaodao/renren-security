@@ -130,4 +130,3 @@ renren-security
 
 <br>
 
-![捐赠](http://cdn.renren.io/donate.jpg "捐赠") 
